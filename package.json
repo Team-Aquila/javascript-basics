@@ -1,0 +1,27 @@
+{
+  "name": "javascript-basics",
+  "version": "1.0.0",
+  "description": "Learn the javascript basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micaiah-effiong/javascript-basics.git"
+  },
+  "keywords": [
+    "javascript",
+    "learn",
+    "basics"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micaiah-effiong/javascript-basics/issues"
+  },
+  "homepage": "https://github.com/micaiah-effiong/javascript-basics#readme",
+  "devDependencies": {
+    "mocha": "^8.1.3"
+  }
+}
