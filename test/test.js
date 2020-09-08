@@ -46,9 +46,9 @@ describe("Square root", function () {
 
 describe("Power 2", function () {
   it("should return the number raised to the power of two", function () {
-    expect(powTwo(2, 10)).to.equal(1024);
-    expect(powTwo(4, 6)).to.equal(4096);
-    expect(powTwo(8, 3)).to.equal(512);
+    expect(powTwo(2)).to.equal(4);
+    expect(powTwo(64)).to.equal(4096);
+    expect(powTwo(8)).to.equal(64);
   });
 });
 
